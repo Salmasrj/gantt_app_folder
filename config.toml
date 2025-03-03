@@ -1,7 +1,0 @@
-[server]
-headless = true
-enableCORS = false
-port = $PORT
-
-[server]
-prelaunch = "bash setup.sh"
