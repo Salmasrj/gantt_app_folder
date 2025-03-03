@@ -1,3 +1,5 @@
+graphviz
 streamlit
 pandas
 plotly
+numpy
